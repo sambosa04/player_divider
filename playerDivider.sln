@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "playerDivider", "playerDivider\playerDivider.pyproj", "{14502FB5-1EE3-43FB-A5BD-A03BF66E4385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14502FB5-1EE3-43FB-A5BD-A03BF66E4385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14502FB5-1EE3-43FB-A5BD-A03BF66E4385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB73B0D-E7B4-4BC2-AAD3-FC72F2B12B03}
+	EndGlobalSection
+EndGlobal
